@@ -1,3 +1,3 @@
-# 2024-CED-PJ
-## Panus Chanthawibool 6502041620085
-## ... ... ...
+# Cyber Security
+## Panus Chanthawibool
+### 6502041620085
